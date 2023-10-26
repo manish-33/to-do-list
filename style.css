@@ -1,0 +1,23 @@
+
+.completed {
+    text-decoration: line-through;
+}
+.heading {
+    text-align: center;
+    font-family: "Roboto";
+    background-color: bisque;
+    text-decoration: underline;
+
+    
+}
+.card {
+    background-color: lightblue;
+    text-align: center;
+}
+.bg_container {
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.cCYOz6thNtGtDnD0BYfkLAHaEK&pid=Api&P=0&h=220");
+    height: 100vh;
+    background-size: cover;
+.heading1 {
+    text-align: center;
+}
